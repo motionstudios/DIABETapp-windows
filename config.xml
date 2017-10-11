@@ -1,15 +1,14 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="com.euromedice.DIABETapp" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>DIABETapp</name>
+<widget id="com.euromedice.ICapp" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>ICapp</name>
     <description>
-        Proceso asistencial simplificado de la diabetes en el paciente con enfermedad cardiovascular
+        Proceso asistencial simplificado de la insuficiencia cardiaca
     </description>
-    <author email="francisco.rubiales@euromedice.net" href="https://www.secardiologia.es">
-        Sociedad Española de Cardiologia
+    <author email="apps@secardiologia.es" href="http://www.secardiologia.es">
+        Sociedad Española de Cardiología
     </author>
     
     
-    <preference name="windows-identity-name" value="EUROMEDICE.DIABETapp" />
+    <preference name="windows-identity-name" value="SociedadEspaoladeCardiolo.ICapp" />
 
     
     <!--<preference name="phonegap-version" value="cli-6.5.0" />-->

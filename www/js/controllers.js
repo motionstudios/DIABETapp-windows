@@ -2192,6 +2192,18 @@ angular.module('app.controllers', [])
                         "contenido": "<p><strong>BYETTA&nbsp;Sol. iny. pluma precargada 10 mcg</strong></p><p><strong>Composici&oacute;n:</strong><br /> Por 1 dosis inyectable en envase multidosis: Exenatida, 10.0&nbsp;mcg</p><p>BYETTA&nbsp;Sol. iny. pluma precargada 10 mcg<br /> <strong>env. con 1 pluma precargada de 60 dosis</strong></p><p>*Aportaci&oacute;n reducida por el beneficiario</p><p><strong>Fi</strong>: Medicamento incluido en la financiaci&oacute;n del SNS</p><p><strong>Vi</strong>: Medicamento que precisa Visado de Inspecci&oacute;n</p><p>BYETTA&nbsp;Sol. iny. pluma precargada 5 mcg<br /> <strong>env. con 1 pluma precargada de 60 dosis</strong></p>",
                         "enlace": "https://www.vademecum.es/medicamento-byetta_ficha_31069"
                     }, {
+                        "id": 6,
+                        "nombre": "EBYMECT",
+                        "company": "ESTEVE",
+                        "contenido": "<p><strong>EBYMECT Comp. recub. con película 5 mg/850 mg</strong></p><p><strong>Composici&oacute;n:</strong><br /> Por 1 comprimido: Dapagliflozina, 5 mg; Metformina, 850 mg<br><strong>env. con 56 comprimidos recubiertos con película</strong></p><ul><li>Aportaci&oacute;n reducida por el beneficiario</li><li><strong>Fi</strong>: Medicamento incluido en la financiaci&oacute;n del SNS</li></ul>",
+                        "enlace": "https://www.vademecum.es/medicamento-ebymect+comp.+recub.+con+pelicula+5+mg%2F850+mg_44871"
+                    }, {
+                        "id": 6,
+                        "nombre": "EDISTRIDE",
+                        "company": "ESTEVE",
+                        "contenido": "<p><strong>EDISTRIDE Comp. recub. con película 10 mg</strong></p><p><strong>Composici&oacute;n:</strong><br /> Por 1 comprimido:&nbsp;Dapagliflozina, 10.0 mg</p><ul><li>Aportaci&oacute;n reducida por el beneficiario</li><li><strong>Fi</strong>: Medicamento incluido en la financiaci&oacute;n del SNS</li></ul>",
+                        "enlace": "https://www.vademecum.es/medicamento-edistride_44872"
+                    }, {
                         "id": 5,
                         "nombre": "DAONIL",
                         "company": "SANOFI",

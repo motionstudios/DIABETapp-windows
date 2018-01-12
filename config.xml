@@ -1,4 +1,4 @@
-<widget id="SociedadEspaoladeCardiolo.DIABETapp" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="SociedadEspaoladeCardiolo.DIABETapp" version="1.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>DIABETapp</name>
     <description>
         Proceso asistencial simplificado de la diabetes en el paciente con enfermedad cardiovascular
